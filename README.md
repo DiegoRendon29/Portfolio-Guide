@@ -55,4 +55,5 @@ This project involves analyzing EMG signals through various characteristics, com
 **Description**
 This web app was developed to assist a person in managing their loan business. In the app, they can register new clients, loans, and view upcoming payments. It also provides detailed information about each client, such as the total loan amount. Additionally, the app allows users to track both incoming and outgoing funds, including monthly disbursed amounts, as well as the money collected in interest and capital payments.
 
+![Gráfica de resultados](img/webApp1.png)
 ## **Tableau dashboards**
