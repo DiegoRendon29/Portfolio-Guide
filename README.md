@@ -62,3 +62,14 @@ This web app was developed to assist a person in managing their loan business. I
 
 
 ## **Tableau dashboards**
+
+💻**Areas**: Data analysis, Data visualization, excel.
+
+🛠️**Tools**: Excel, Tableau.
+
+**Description**
+This project showcases the use of Tableau tables with real data from the Mexican Stock Exchange (BMV). The data, divided by quarters, was cleaned and organized into three tables: "Income Statement," "Cash Flow Statement," and "Balance Sheet." The cash flow is categorized into three main components: operating, investing, and financing activities, each with its own detailed breakdown.
+<p align="center">
+  <img src="img/dashboard1.png" alt="Imagen 1" width="400"/>
+</p>
+
