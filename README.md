@@ -5,11 +5,14 @@ Welcome to my portfolio guide, you can see some examples of my work of descripti
 ## 📚**Table of content**
 * [Researches.](Researches)
 * [Web apps.](Web-apps.)
+* [Tableau dashboards.](Tableau-dashboards)
 
 ## 🔍**Researches**
 [Human gait analysis through computer vision to detect physical traits.](#Human-gait-analysis-through-computer-vision-to-detect-physical-traits.)
 
 [Automatic detection for Coronary Stenosis.](#Automatic-detection-for-Coronary-Stenosis.)
+
+[Electromyography analysis to detect movement.](#Electromyography-analysis-to-detect-movement.)
 ### **Human gait analysis through computer vision to detect physical traits.**
 
 💻**Areas**: Data analysis, Machine learning, Data visualization, Reporting results, computer vision.
@@ -33,7 +36,13 @@ This project can be found in chapter 11 of the book "Convolutional Neural Networ
 This project uses convolutional neural network to make predictions in medical images to detect Coronary Stenosis, a disease of the narrowing of the arteries that supply blood to the heart.
 An optimization of the model was made with stochastic algorithm to find the better archicture.
 
+### **Electromyography analysis to detect movement.**
+💻**Areas**: Data analysis, Machine learning,Reporting results, Artificial neural networks, Convolutional neural network, Spectrograms, other algorithms.
 
+🛠️**Tools**: Python, Tensorflow, LaTex, Scikit-learn, Ploty.
+
+**Description**
+This project involves analyzing EMG signals through various characteristics, comparing them, and finding the optimal model for classification. It also utilizes spectrogram analysis to extract frequency parameters of the signals. We achieved high accuracy in distinguishing between 52 classes.
 
 ## 🖥️**Web apps**
 
@@ -46,4 +55,4 @@ An optimization of the model was made with stochastic algorithm to find the bett
 **Description**
 This web app was developed to assist a person in managing their loan business. In the app, they can register new clients, loans, and view upcoming payments. It also provides detailed information about each client, such as the total loan amount. Additionally, the app allows users to track both incoming and outgoing funds, including monthly disbursed amounts, as well as the money collected in interest and capital payments.
 
-## **Tableau visualizations**
+## **Tableau dashboards**
