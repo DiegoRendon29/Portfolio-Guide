@@ -3,9 +3,9 @@
 Welcome to my portfolio guide, you can see some examples of my work of descriptions of them.
 
 ## 📚**Table of content**
-* [Researches.](Researches)
-* [Web apps.](Web-apps.)
-* [Tableau dashboards.](Tableau-dashboards)
+* [Researches.](#Researches)
+* [Web apps.](#Web-apps.)
+* [Tableau dashboards.](#Tableau-dashboards)
 
 ## 🔍**Researches**
 [Human gait analysis through computer vision to detect physical traits.](#Human-gait-analysis-through-computer-vision-to-detect-physical-traits.)
