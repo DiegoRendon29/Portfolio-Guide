@@ -51,6 +51,11 @@ An optimization of the model was made with stochastic algorithm to find the bett
 **Description**
 This project involves analyzing EMG signals through various characteristics, comparing them, and finding the optimal model for classification. It also utilizes spectrogram analysis to extract frequency parameters of the signals. We achieved high accuracy in distinguishing between 52 classes.
 
+<p align="center">
+  <img src="img/embedding.png" alt="Imagen 1" width="400"/>
+
+</p>
+
 ## 🖥️**Web apps**
 
 ### **Web app for loan management business.**
