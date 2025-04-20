@@ -22,7 +22,7 @@ Welcome to my portfolio guide, you can see some examples of my work of descripti
 **Description**
 This project was realized in collaboration with University of Alberta in Edmonton. The paper is under submission in this moment.
 The project involves collecting data from diverse subjects to apply computer vision algorithms that identify various characteristics during walking, enabling the automatic detection of physical traits.
-The results were writted in a paper that is currently in submission.
+The results were writted in a paper that is accepted for the EMBC.
 
 <p align="center">
   <img src="img/research1.png" alt="Imagen 1" width="400"/>
