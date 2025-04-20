@@ -13,6 +13,10 @@ Welcome to my portfolio guide, you can see some examples of my work of descripti
 
 [Electromyography analysis to detect movement.](#Electromyography-analysis-to-detect-movement.)
 ### **Human gait analysis through computer vision to detect physical traits.**
+<p align="center">
+  <img src="img/research1.jpg" alt="Imagen 1" width="400"/>
+
+</p>
 
 💻**Areas**: Data analysis, Machine learning, Data visualization, Reporting results, computer vision.
 
